@@ -1,0 +1,7 @@
+{
+  "name": "nw-demo",
+  "window": {
+  	"kiosk": true
+  },
+  "main": "index.html"
+}
